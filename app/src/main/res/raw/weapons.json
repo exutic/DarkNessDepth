@@ -1,0 +1,44 @@
+{
+  "Level_1_Weapons_Bow": [
+    {
+      "WeaponName": "Rusty Bow",
+      "WeaponDamage": 1,
+      "WeaponCritChance":5,
+      "WeaponType": "Range",
+      "WeaponRange": 18,
+      "DropChance" : 100
+    },
+    {
+      "WeaponName": "Bone Made",
+      "WeaponDamage": 2,
+      "WeaponCritChance":4,
+      "WeaponType": "Range",
+      "WeaponRange": 20,
+      "DropChance" : 75
+    },
+    {
+      "WeaponName": "Kids Toy",
+      "WeaponDamage": 2,
+      "WeaponCritChance":3,
+      "WeaponType": "Range",
+      "WeaponRange": 15,
+      "DropChance" : 50
+    },
+    {
+      "WeaponName": "Small Bow",
+      "WeaponDamage": 3,
+      "WeaponCritChance":7,
+      "WeaponType": "Range",
+      "WeaponRange": 22,
+      "DropChance" : 12
+    },
+    {
+      "WeaponName": "Hunting Bow",
+      "WeaponDamage": 4,
+      "WeaponCritChance":10,
+      "WeaponType": "Range",
+      "WeaponRange": 22,
+      "DropChance" : 5
+    }
+  ]
+}
